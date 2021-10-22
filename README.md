@@ -1,7 +1,3 @@
-<<<<<<< HEAD
-# UAV_ObjectDetektion
-This is an algorithm to detection and identification of objects on UAV 
-=======
 # Object detection on UAV
 
 1. This program is developed for UAV and it depends on the ros platform. And it works with the sensors in Evarobot.
@@ -14,5 +10,3 @@ This is an algorithm to detection and identification of objects on UAV
 8. This file must execute with the gazebo-model of Evarobot and the Rviz.
 9. For visualizition, there are boundary-boxes in the Rviz, that are detected. The topic of boundary-boxes is "/visualization\_marker"
 10. All the sensors must be available. During the test, we find some computers have no data from lidar due to the GPU. If it happened, just turn off the process of lidar in the code. 
-
->>>>>>> master
