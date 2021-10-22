@@ -4,7 +4,7 @@
 2. The sensors are depth-camera, monocamera, lidar and sonar.
 3. This program can recognize objects around the robot. As result, it gives a list of objects, which 
 4. contains all the Features of these objects.
-5. Put this source code in the "~/catkin\_ws/src" folder. And then change the path of the terminal to "~/catkin\_ws".
+5. Put this source code in the "\~/catkin\_ws/src" folder. And then change the path of the terminal to "~/catkin\_ws".
 6. Enter the command "catkin_make" in the terminal.
 7. Executable file is "~/catkin\_ws/devel/lib/evarobot\_adp/evarobot\_process\_node".
 8. This file must execute with the gazebo-model of Evarobot and the Rviz.
